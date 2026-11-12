@@ -17633,6 +17633,18 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 5946287790987142613, guid: 07f8482da20468f458fcff4e3316fd5e, type: 3}
+      propertyPath: maxAmmo
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946287790987142613, guid: 07f8482da20468f458fcff4e3316fd5e, type: 3}
+      propertyPath: totalAmmo
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5946287790987142613, guid: 07f8482da20468f458fcff4e3316fd5e, type: 3}
+      propertyPath: currentAmmo
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 6440460097064430134, guid: 07f8482da20468f458fcff4e3316fd5e, type: 3}
       propertyPath: m_Size.y
       value: 1.2972237
